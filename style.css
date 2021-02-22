@@ -1,0 +1,31 @@
+body{
+	background-color: #EEE8AA;
+}
+h1{
+	color: #5F9EA0;
+}
+.start{
+	text-align: center;
+	border: 10px #00FF7F solid;
+	width: 30%;
+	height: 400px;
+	margin: 0 auto;
+}
+label{
+	color: #B22222;
+}
+p{
+	color: #1E90FF;
+}
+input{
+	background-color: #FFFF00;
+	margin: 20px auto;
+	border-color: #000;
+	height: 29px;
+}
+.check{
+	background-color: #FF4500;
+}
+.Newgame{
+	background-color: #00FF7F;
+}
